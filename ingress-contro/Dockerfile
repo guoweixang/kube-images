@@ -1,2 +1,2 @@
-FROM ingress-nginx/controller:v1.3.0
+FROM ingress-nginx/controller
 MAINTAINER Q
