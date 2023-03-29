@@ -1,2 +1,2 @@
-FROM ingress-nginx/kube-webhook-certgen:v1.1.1
+FROM ingress-nginx/kube-webhook-certgen
 MAINTAINER Q
